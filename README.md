@@ -21,14 +21,14 @@ This project involves setting up a virtual home lab environment for learning cyb
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
-1. Download VirtualBox
+1. Download <a href="https://www.virtualbox.org/">VirtualBox</a>
 
 - Navigate to the VirtualBox website and download the latest version.
-- Install it on your host system.
+- Install the version based on your host system.
   
 2. Create ISO Images for Windows Targets and Monitoring Machine
 
-- Visit the Microsoft Evaluation Center to download evaluation versions of Windows.
+- Visit the <a href="https://www.microsoft.com/en-us/software-download/windows10">Microsoft Evaluation Center</a> to download evaluation versions of Windows.
 - Use the Media Creation Tool to generate ISO images for both Windows target systems and the Windows machine running the SIEM.
 3. Download Kali Linux
 
